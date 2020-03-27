@@ -1,2 +1,5 @@
 # hello-world
-Repositório teste para entendimento da plataforma e suas funcionalidades
+Estou estudando sobre a plataforma e deveria entender oque é um commit
+meu primeiro commit
+
+teste-commit
